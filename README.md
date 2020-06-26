@@ -1,7 +1,8 @@
 # Route Planning Project
 
 This repo contains the code for my version of the Route Planning project.
-
+I completed this project as part of the C++ Nanodegree Program on Udacity.
+The content below contains the initial instructions for this Route Planning project.
 <img src="map.png" width="600" height="450" />
 
 ## Cloning
